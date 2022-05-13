@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<node id="Nivel educativo de audiencia del recurso" label="Nivel educativo de audiencia del recurso">
+	<isComposedBy>
+		<node id="0" label="N/A" />
+		<node id="1" label="Educación especial--Educación Infantil" />
+		<node id="2" label="Educación especial--Educación Primaria" />
+		<node id="3" label="Educación especial--Educación Secundaria Obligatoria" />
+		<node id="4" label="Educación infantil--Primer ciclo--0 años" />
+		<node id="5" label="Educación infantil--Primer ciclo--1 año" />
+		<node id="6" label="Educación infantil--Primer ciclo--2 años" />
+		<node id="7" label="Educación infantil--Segundo ciclo--3 años" />
+		<node id="8" label="Educación infantil--Segundo ciclo--4 años" />
+		<node id="9" label="Educación infantil--Segundo ciclo--5 años" />
+		<node id="10" label="Educación primaria--Primer ciclo--Primer curso" />
+		<node id="11" label="Educación primaria--Primer ciclo--Segundo ciclo" />
+		<node id="12" label="Educación primaria--Segundo ciclo--Tercer curso" />
+		<node id="13" label="Educación primaria--Segundo ciclo--Cuarto curso" />
+		<node id="14" label="Educación primaria--Tercer ciclo--Quinto curso" />
+		<node id="15" label="Educación primaria--Tercer ciclo--Sexto curso" />
+		<node id="16" label="Educación secundaria obigatoria--Primer curso" />
+		<node id="17" label="Educación secundaria obigatoria--Segundo ciclo" />
+		<node id="18" label="Educación secundaria obigatoria--Tercer curso" />
+		<node id="19" label="Educación secundaria obigatoria--Cuarto curso" />
+		<node id="20" label="Educación secundaria obigatoria--Diversificación curricular" />
+		<node id="21" label="Enseñanza compensatoria--Aulas de enlace" />
+		<node id="22" label="Enseñanza compensatoria--Aulas de acogida" />
+		<node id="23" label="Enseñanza compensatoria--Aulas hospitalarias" />
+		<node id="24" label="Bachillerato" />
+		<node id="25" label="Programas de cualificación profesional inicial--Iniciación profesional" />
+		<node id="26" label="Programas de cualificación profesional inicial--Formación empleo" />
+		<node id="27" label="Programas de cualificación profesional inicial--Talleres profesionales" />
+		<node id="28" label="Programas de cualificación profesional inicial--Iniciación profesional especial" />
+		<node id="29" label="Programas de cualificación profesional inicial--Preparación acceso grado medio FP" />
+		<node id="30" label="Programas de cualificación profesional inicial--Preparación acceso grado superior FP" />
+		<node id="31" label="Formación profesional--Ciclo formativo grado medio" />
+		<node id="32" label="Formación profesional--Ciclo formativo grado superio" />
+		<node id="33" label="Educación de personas adultas--Enseñanza básica para personas adultas--Alfabetización" />
+		<node id="34" label="Educación de personas adultas--Enseñanza básica para personas adultas--Consolidación de conocimientos y técnicas instrumentales" />
+		<node id="35" label="Educación de personas adultas--ESPA--Nivel 1" />
+		<node id="36" label="Educación de personas adultas----Nivel 2" />
+		<node id="37" label="Educación de personas adultas--ESPAD--Nivel 1" />
+		<node id="38" label="Educación de personas adultas----Nivel 2" />
+		<node id="39" label="Educación de personas adultas--Pruebas libres título general ESO" />
+		<node id="40" label="Educación de personas adultas--Pruebas libres bachillerato" />
+		<node id="41" label="Educación de personas adultas--Pruebas libres técnico" />
+		<node id="42" label="Educación de personas adultas--Pruebas libres técnico superior" />
+		<node id="43" label="Educación de personas adultas--Inserción o actualización laboral y profesional" />
+		<node id="44" label="Educación de personas adultas--Alfabetización en lengua castellana (español para inmigrantes)" />
+		<node id="45" label="Educación de personas adultas--Formación para el desarrollo personal" />
+		<node id="46" label="Educación de personas adultas--Bachillerato adultos y distancia" />
+		<node id="47" label="Educación de personas adultas--That's English. Enseñanza oficial de idiomas--Módulo 1" />
+		<node id="48" label="Educación de personas adultas--That's English. Enseñanza oficial de idiomas--Módulo 2" />
+		<node id="49" label="Educación de personas adultas--That's English. Enseñanza oficial de idiomas--Módulo 3" />
+		<node id="50" label="Educación de personas adultas--That's English. Enseñanza oficial de idiomas--Módulo 4" />
+		<node id="51" label="Educación de personas adultas--That's English. Enseñanza oficial de idiomas--Módulo 5" />
+		<node id="52" label="Educación de personas adultas--That's English. Enseñanza oficial de idiomas--Módulo 6" />
+		<node id="53" label="Educación de personas adultas--That's English. Enseñanza oficial de idiomas--Módulo 7" />
+		<node id="54" label="Educación de personas adultas--That's English. Enseñanza oficial de idiomas--Módulo 8" />
+		<node id="55" label="Educación de personas adultas--That's English. Enseñanza oficial de idiomas--Módulo 9" />
+		<node id="56" label="Educación de personas adultas--Ciclo formativo grado medio a distancia--Primer curso" />
+		<node id="57" label="Educación de personas adultas--Ciclo formativo grado medio a distancia--Segundo curso" />
+		<node id="58" label="Educación de personas adultas--Ciclo formativo grado superior a distancia--Primer curso" />
+		<node id="59" label="Educación de personas adultas--Ciclo formativo grado superior a distancia--Segundo curso" />
+		<node id="60" label="Educación de personas adultas--Aulas MENTOR" />
+		<node id="61" label="Enseñanzas de régimen especial--Escuela oficial de idiomas--Nivel básico--Primer curso" />
+		<node id="62" label="Enseñanzas de régimen especial--Escuela oficial de idiomas--Nivel básico--Segundo curso" />
+		<node id="63" label="Enseñanzas de régimen especial--Escuela oficial de idiomas--Nivel intermedio--Tercer curso" />
+		<node id="64" label="Enseñanzas de régimen especial--Escuela oficial de idiomas--Nivel intermedio--Cuarto curso" />
+		<node id="65" label="Enseñanzas de régimen especial--Escuela oficial de idiomas--Nivel avanzado--Quinto curso" />
+		<node id="66" label="Enseñanzas de régimen especial--Escuela oficial de idiomas--Nivel avanzado--Sexto curso" />
+		<node id="67" label="Enseñanzas de régimen especial--Enseñanzas artísticas--Enseñanzas de artes plásticas y diseño--Ciclo formativo de grado medio--Primer curso" />
+		<node id="68" label="Enseñanzas de régimen especial--Enseñanzas artísticas--Enseñanzas de artes plásticas y diseño--Ciclo formativo de grado medio--Segundo curso" />
+		<node id="69" label="Enseñanzas de régimen especial--Enseñanzas artísticas--Enseñanzas de artes plásticas y diseño--Ciclo formativo de grado superior --Primer curso" />
+		<node id="70" label="Enseñanzas de régimen especial--Enseñanzas artísticas--Enseñanzas de artes plásticas y diseño--Ciclo formativo de grado superior --Segundo curso" />
+		<node id="71" label="Enseñanzas de régimen especial--Enseñanzas artísticas--Estudios superiores de artes plásticas y diseño--Tercer curso" />
+		<node id="72" label="Enseñanzas de régimen especial--Enseñanzas artísticas--Enseñanzas de música--Grado elemental--Primer curso" />
+		<node id="73" label="Enseñanzas de régimen especial--Enseñanzas artísticas--Enseñanzas de música--Grado elemental--Segundo curso" />
+		<node id="74" label="Enseñanzas de régimen especial--Enseñanzas artísticas--Enseñanzas de música--Grado elemental--Tercer curso" />
+		<node id="75" label="Enseñanzas de régimen especial--Enseñanzas artísticas--Enseñanzas de música--Grado elemental--Cuarto curso" />
+		<node id="76" label="Enseñanzas de régimen especial--Enseñanzas artísticas--Enseñanzas de música--Grado medio--Primer ciclo--Primer curso" />
+		<node id="77" label="Enseñanzas de régimen especial--Enseñanzas artísticas--Enseñanzas de música--Grado medio--Primer ciclo--Segundo curso" />
+		<node id="78" label="Enseñanzas de régimen especial--Enseñanzas artísticas--Enseñanzas de música--Grado medio--Segundo ciclo--Tercer curso" />
+		<node id="79" label="Enseñanzas de régimen especial--Enseñanzas artísticas--Enseñanzas de música--Grado medio--Segundo ciclo--Cuarto curso" />
+		<node id="80" label="Enseñanzas de régimen especial--Enseñanzas artísticas--Enseñanzas de música--Grado medio--Tercer ciclo--Quinto curso" />
+		<node id="81" label="Enseñanzas de régimen especial--Enseñanzas artísticas--Enseñanzas de música--Grado medio--Tercer ciclo--Sexto curso" />
+		<node id="82" label="Enseñanzas de régimen especial--Enseñanzas artísticas--Enseñanzas de música--Grado superior--Primer curso" />
+		<node id="83" label="Enseñanzas de régimen especial--Enseñanzas artísticas--Enseñanzas de música--Grado superior--Segundo curso" />
+		<node id="84" label="Enseñanzas de régimen especial--Enseñanzas artísticas--Enseñanzas de música--Grado superior--Tercer curso" />
+		<node id="85" label="Enseñanzas de régimen especial--Enseñanzas artísticas--Enseñanzas de música--Grado superior--Cuarto curso" />
+		<node id="86" label="Enseñanzas de régimen especial--Enseñanzas artísticas--Enseñanzas de música--Grado superior--Quinto curso" />
+		<node id="87" label="Enseñanzas de régimen especial--Enseñanzas artísticas--Enseñanzas de danza--Grado elemental--Primer curso" />
+		<node id="88" label="Enseñanzas de régimen especial--Enseñanzas artísticas--Enseñanzas de danza--Grado elemental--Segundo curso" />
+		<node id="89" label="Enseñanzas de régimen especial--Enseñanzas artísticas--Enseñanzas de danza--Grado elemental--Tercer curso" />
+		<node id="90" label="Enseñanzas de régimen especial--Enseñanzas artísticas--Enseñanzas de danza--Grado elemental--Cuarto curso" />
+		<node id="91" label="Enseñanzas de régimen especial--Enseñanzas artísticas--Enseñanzas de danza--Grado medio--Primer ciclo--Primer curso" />
+		<node id="92" label="Enseñanzas de régimen especial--Enseñanzas artísticas--Enseñanzas de danza--Grado medio--Primer ciclo--Segundo curso" />
+		<node id="93" label="Enseñanzas de régimen especial--Enseñanzas artísticas--Enseñanzas de danza--Grado medio--Segundo ciclo--Tercer curso" />
+		<node id="94" label="Enseñanzas de régimen especial--Enseñanzas artísticas--Enseñanzas de danza--Grado medio--Segundo ciclo--Cuarto curso" />
+		<node id="95" label="Enseñanzas de régimen especial--Enseñanzas artísticas--Enseñanzas de danza--Grado medio--Tercer ciclo--Quinto curso" />
+		<node id="96" label="Enseñanzas de régimen especial--Enseñanzas artísticas--Enseñanzas de danza--Grado medio--Tercer ciclo--Sexto curso" />
+		<node id="97" label="Enseñanzas de régimen especial--Enseñanzas artísticas--Enseñanzas de danza--Grado superior--Primer curso" />
+		<node id="98" label="Enseñanzas de régimen especial--Enseñanzas artísticas--Enseñanzas de danza--Grado superior--Segundo curso" />
+		<node id="99" label="Enseñanzas de régimen especial--Enseñanzas artísticas--Enseñanzas de danza--Grado superior--Tercer curso" />
+		<node id="100" label="Enseñanzas de régimen especial--Enseñanzas artísticas--Enseñanzas de danza--Grado superior--Cuarto curso" />
+		<node id="101" label="Enseñanzas de régimen especial--Enseñanzas artísticas--Enseñanzas de danza--Grado superior--Quinto curso" />
+		<node id="102" label="Enseñanzas de régimen especial--Enseñanzas artísticas--Enseñanzas de arte dramático--Grado superior--Primer curso" />
+		<node id="103" label="Enseñanzas de régimen especial--Enseñanzas artísticas--Enseñanzas de arte dramático--Grado superior--Segundo curso" />
+		<node id="104" label="Enseñanzas de régimen especial--Enseñanzas artísticas--Enseñanzas de arte dramático--Grado superior--Tercer curso" />
+		<node id="105" label="Enseñanzas de régimen especial--Enseñanzas artísticas--Enseñanzas de arte dramático--Grado superior--Cuarto curso" />
+		<node id="106" label="Enseñanzas de régimen especial--Enseñanzas artísticas--Enseñanzas de arte dramático--Grado superior--Quinto curso" />
+		<node id="107" label="Enseñanzas de régimen especial--Enseñanzas deportivas--Grado medio técnico deportivo" />
+		<node id="108" label="Enseñanzas de régimen especial--Enseñanzas deportivas--Grado superior técnico deportivo" />
+		<node id="109" label="Enseñanzas de régimen especial--Enseñanzas unversitarias" />
+		<node id="110" label="Enseñanzas de régimen especial--Programas educativos especiales" />
+	</isComposedBy>			
+</node>

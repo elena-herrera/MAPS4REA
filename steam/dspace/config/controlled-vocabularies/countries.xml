@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<node id="Lugar de publicación" label="Lugar de publicación">
+	<isComposedBy>
+		<node id="1" label="N/A" />
+		<node id="2" label="Afganistán / Afghanistan" />
+		<node id="3" label="Akrotiri / Akrotiri" />
+		<node id="4" label="Albania / Albania" />
+		<node id="5" label="Alemania / Germany" />
+		<node id="6" label="Andorra / Andorra" />
+		<node id="7" label="Angola / Angola" />
+		<node id="8" label="Anguila / Anguilla" />
+		<node id="9" label="Antártida / Antarctica" />
+		<node id="10" label="Antigua y Barbuda / Antigua and Barbuda" />
+		<node id="11" label="Arabia Saudita / Saudi Arabia" />
+		<node id="12" label="Argelia / Algeria" />
+		<node id="13" label="Argentina / Argentina" />
+		<node id="14" label="Armenia / Armenia" />
+		<node id="15" label="Arrecife Kingman / Kingman Reef" />
+		<node id="16" label="Aruba / Aruba" />
+		<node id="17" label="Atalón Palmyra / Palmyra Atoll" />
+		<node id="18" label="Atolón Johnston / Johnston Atoll" />
+		<node id="19" label="Australia / Australia" />
+		<node id="20" label="Austria / Austria" />
+		<node id="21" label="Azerbaiyán / Azerbaijan" />
+		<node id="22" label="Bahrain / Bahrain" />
+		<node id="23" label="Bailía de Jersey / Jersey" />
+		<node id="24" label="Bangladesh / Bangladesh" />
+		<node id="25" label="Barbados / Barbados" />
+		<node id="26" label="Bélgica / Belgium" />
+		<node id="27" label="Belice / Belize" />
+		<node id="28" label="Benin / Benin" />
+		<node id="29" label="Bermuda / Bermuda" />
+		<node id="30" label="Bielorrusia / Belarus" />
+		<node id="31" label="Bolivia / Bolivia" />
+		<node id="32" label="Bosnia y Herzegovina / Bosnia and Herzegovina" />
+		<node id="33" label="Botswana / Botswana" />
+		<node id="34" label="Brasil / Brazil" />
+		<node id="35" label="Brunei Darussalam / Brunei Darussalam" />
+		<node id="36" label="Bulgaria / Bulgaria" />
+		<node id="37" label="Burkina Faso / Burkina Faso" />
+		<node id="38" label="Burundi / Burundi" />
+		<node id="39" label="Bután / Bhutan" />
+		<node id="40" label="Cabo Verde / Cape Verde" />
+		<node id="41" label="Camboya / Cambodia" />
+		<node id="42" label="Camerún / Cameroon" />
+		<node id="43" label="Canadá / Canada" />
+		<node id="44" label="Chad / Chad" />
+		<node id="45" label="Chile / Chile" />
+		<node id="46" label="China / China" />
+		<node id="47" label="Chipre / Cyprus" />
+		<node id="48" label="Cisjordania / West Bank" />
+		<node id="49" label="Ciudad del Vaticano / Holy See (Vatican City)" />
+		<node id="50" label="Colombia / Colombia" />
+		<node id="51" label="Comoros / Comoros" />
+		<node id="52" label="Congo / Congo, Democratic Republic of the" />
+		<node id="53" label="Corea del Norte / Korea, North" />
+		<node id="54" label="Corea del Sur / Korea, South" />
+		<node id="55" label="Costa de Marfil / Ivory Coast (Cote d'Ivoire)" />
+		<node id="56" label="Costa Rica / Costa Rica" />
+		<node id="57" label="Croacia / Croatia" />
+		<node id="58" label="Cuba / Cuba" />
+		<node id="59" label="Curazao / Curacao" />
+		<node id="60" label="Dhekelia / Dhekelia" />
+		<node id="61" label="Dinamarca / Denmark" />
+		<node id="62" label="Djibuti / Djibouti" />
+		<node id="63" label="Dominica / Dominica" />
+		<node id="64" label="Ecuador / Ecuador" />
+		<node id="65" label="Egipto / Egypt" />
+		<node id="66" label="El Salvador / El Salvador" />
+		<node id="67" label="Emiratos Arabes Unidos / United Arab Emirates" />
+		<node id="68" label="Eritrea / Eritrea" />
+		<node id="69" label="Eslovaquia / Slovakia" />
+		<node id="70" label="Eslovenia / Slovenia" />
+		<node id="71" label="España / Spain" />
+		<node id="72" label="Estados Unidos de América / United States" />
+		<node id="73" label="Estonia / Estonia" />
+		<node id="74" label="Etiopía / Ethiopia" />
+		<node id="75" label="Fiji / Fiji" />
+		<node id="76" label="Filipinas / Philippines" />
+		<node id="77" label="Finlandia / Finland" />
+		<node id="78" label="Francia / France" />
+		<node id="79" label="Franja de Gaza / Gaza Strip" />
+		<node id="80" label="Gabón / Gabon" />
+		<node id="81" label="Gambia / Gambia, The" />
+		<node id="82" label="Georgia / Georgia" />
+		<node id="83" label="Ghana / Ghana" />
+		<node id="84" label="Gibraltar / Gibraltar" />
+		<node id="85" label="Granada / Grenada" />
+		<node id="86" label="Grecia / Greece" />
+		<node id="87" label="Groenlandia / Greenland" />
+		<node id="88" label="Guadalupe / Guadeloupe" />
+		<node id="89" label="Guam / Guam" />
+		<node id="90" label="Guatemala / Guatemala" />
+		<node id="91" label="Guernsey / Guernsey" />
+		<node id="92" label="Guinea / Guinea" />
+		<node id="93" label="Guinea Bissau / Guinea-Bissau" />
+		<node id="94" label="Guinea Ecuatorial / Equatorial Guinea" />
+		<node id="95" label="Guyana / Guyana" />
+		<node id="96" label="Haití / Haiti" />
+		<node id="97" label="Honduras / Honduras" />
+		<node id="98" label="Hong Kong / Hong Kong" />
+		<node id="99" label="Hungría / Hungary" />
+		<node id="100" label="Indefinido / Indefinite" />
+		<node id="101" label="India / India" />
+		<node id="102" label="Indonesia / Indonesia" />
+		<node id="103" label="Irán / Iran" />
+		<node id="104" label="Iraq / Iraq" />
+		<node id="105" label="Irlanda / Ireland" />
+		<node id="106" label="Isla Cocos / Cocos (Keeling) Islands" />
+		<node id="107" label="Isla de Jan Mayen / Jan Mayen" />
+		<node id="108" label="Isla de Man / Isle of Man" />
+		<node id="109" label="Isla de Navaza / Navassa Island" />
+		<node id="110" label="Isla de Navidad / Christmas Island" />
+		<node id="111" label="Isla de San Martín / Saint Martin" />
+		<node id="112" label="Isla Howland / Howland Island" />
+		<node id="113" label="Isla Jarvis / Jarvis Island" />
+		<node id="114" label="Isla Norfolk / Norfolk Island" />
+		<node id="115" label="Isla Pitcairn / Pitcairn Islands" />
+		<node id="116" label="Isla Santa Elena / Saint Helena" />
+		<node id="117" label="Isla Wake / Wake Island" />
+		<node id="118" label="Islandia / Iceland" />
+		<node id="119" label="Islas Ashmore y Cartier / Ashmore and Cartier Islands" />
+		<node id="120" label="Islas Bahamas / Bahamas, The" />
+		<node id="121" label="Islas Caimán / Cayman Islands" />
+		<node id="122" label="Islas Cook / Cook Islands" />
+		<node id="123" label="Islas del Mar del Coral / Coral Sea Islands" />
+		<node id="124" label="Islas Feroe / Faroe Islands" />
+		<node id="125" label="Islas Georgias del Sur y Sandwich del Sur / South Georgia and the South Sandwich Islands" />
+		<node id="126" label="Islas Malvinas / Falkland Islands (Islas Malvinas)" />
+		<node id="127" label="Islas Marshall / Marshall Islands" />
+		<node id="128" label="Islas Midway / Midway Islands" />
+		<node id="129" label="Islas Paracelso / Paracel Islands" />
+		<node id="130" label="Islas Salomón / Solomon Islands" />
+		<node id="131" label="Islas Spratly / Spratly Islands" />
+		<node id="132" label="Islas Turcas y Caicos / Turks and Caicos Islands" />
+		<node id="133" label="Islas Virgenes / Virgin Islands" />
+		<node id="134" label="Islas Vírgenes Británicas / British Virgin Islands" />
+		<node id="135" label="Israel / Israel" />
+		<node id="136" label="Italia / Italy" />
+		<node id="137" label="Jamaica / Jamaica" />
+		<node id="138" label="Japón / Japan" />
+		<node id="139" label="Jordania / Jordan" />
+		<node id="140" label="Kazajistán / Kazakhstan" />
+		<node id="141" label="Kenia / Kenya" />
+		<node id="142" label="Kirguistán / Kyrgyzstan" />
+		<node id="143" label="Kiribati / Kiribati" />
+		<node id="144" label="Kosovo / Kosovo" />
+		<node id="145" label="Kuwait / Kuwait" />
+		<node id="146" label="Laos / Laos" />
+		<node id="147" label="Lesotho / Lesotho" />
+		<node id="148" label="Letonia / Latvia" />
+		<node id="149" label="Líbano / Lebanon" />
+		<node id="150" label="Liberia / Liberia" />
+		<node id="151" label="Libia / Libya" />
+		<node id="152" label="Liechtenstein / Liechtenstein" />
+		<node id="153" label="Lituania / Lithuania" />
+		<node id="154" label="Luxemburgo / Luxembourg" />
+		<node id="155" label="Macao / Macao" />
+		<node id="156" label="Macedonia / Macedonia" />
+		<node id="157" label="Madagascar / Madagascar" />
+		<node id="158" label="Malasia / Malaysia" />
+		<node id="159" label="Malawi / Malawi" />
+		<node id="160" label="Maldivas / Maldives" />
+		<node id="161" label="Mali / Mali" />
+		<node id="162" label="Malta / Malta" />
+		<node id="163" label="Marianas del Norte / Northern Mariana Islands" />
+		<node id="164" label="Marruecos / Morocco" />
+		<node id="165" label="Mauricio / Mauritius" />
+		<node id="166" label="Mauritania / Mauritania" />
+		<node id="167" label="México / Mexico" />
+		<node id="168" label="Micronesia / Micronesia, Federated States of" />
+		<node id="169" label="Moldova / Moldova" />
+		<node id="170" label="Mónaco / Monaco" />
+		<node id="171" label="Mongolia / Mongolia" />
+		<node id="172" label="Montenegro / Montenegro" />
+		<node id="173" label="Montserrat / Montserrat" />
+		<node id="174" label="Mozambique / Mozambique" />
+		<node id="175" label="Myanmar / Burma" />
+		<node id="176" label="Namibia / Namibia" />
+		<node id="177" label="Nauru / Nauru" />
+		<node id="178" label="Nepal / Nepal" />
+		<node id="179" label="Nicaragua / Nicaragua" />
+		<node id="180" label="Níger / Niger" />
+		<node id="181" label="Nigeria / Nigeria" />
+		<node id="182" label="Niue / Niue" />
+		<node id="183" label="Noruega / Norway" />
+		<node id="184" label="Nueva Caledonia / New Caledonia" />
+		<node id="185" label="Nueva Zelanda / New Zealand" />
+		<node id="186" label="Omán / Oman" />
+		<node id="187" label="Países Bajos / Netherlands" />
+		<node id="188" label="Pakistán / Pakistan" />
+		<node id="189" label="Palau / Palau" />
+		<node id="190" label="Panamá / Panama" />
+		<node id="191" label="Papua Nueva Guinea / Papua New Guinea" />
+		<node id="192" label="Paraguay / Paraguay" />
+		<node id="193" label="Perú / Peru" />
+		<node id="194" label="Polinesia Francesa / French Polynesia" />
+		<node id="195" label="Polonia / Poland" />
+		<node id="196" label="Portugal / Portugal" />
+		<node id="197" label="Puerto Rico / Puerto Rico" />
+		<node id="198" label="Qatar / Qatar" />
+		<node id="199" label="Reino Unido / United Kingdom" />
+		<node id="200" label="República Centroafricana / Central African Republic" />
+		<node id="201" label="República Checa / Czech Republic" />
+		<node id="202" label="República del Congo / Congo, Republic of the" />
+		<node id="203" label="República Dominicana / Dominican Republic" />
+		<node id="204" label="Ruanda / Rwanda" />
+		<node id="205" label="Rumania / Romania" />
+		<node id="206" label="Rusia / Russia" />
+		<node id="207" label="Sáhara Occidental / Western Sahara" />
+		<node id="208" label="Samoa / Samoa" />
+		<node id="209" label="Samoa Estadounidense / American Samoa" />
+		<node id="210" label="San Bartolomé / Saint Barthelemy" />
+		<node id="211" label="San Cristóbal y Nevis / Saint Kitts and Nevis" />
+		<node id="212" label="San Marino / San Marino" />
+		<node id="213" label="San Pedro y Miquelón / Saint Pierre and Miquelon" />
+		<node id="214" label="San Vicente / Saint Vincent and the Grenadines" />
+		<node id="215" label="Santa Lucía / Saint Lucia" />
+		<node id="216" label="Santo Tomé y Príncipe / Sao Tome and Principe" />
+		<node id="217" label="Senegal / Senegal" />
+		<node id="218" label="Serbia / Serbia" />
+		<node id="219" label="Seychelles / Seychelles" />
+		<node id="220" label="Sierra Leona / Sierra Leone" />
+		<node id="221" label="Singapur / Singapore" />
+		<node id="222" label="Sint Maarten / Sint Maarten" />
+		<node id="223" label="Siria / Syria" />
+		<node id="224" label="Somalia / Somalia" />
+		<node id="225" label="Sri Lanka / Sri Lanka" />
+		<node id="226" label="Sudáfrica / South Africa" />
+		<node id="227" label="Sudán / Sudan" />
+		<node id="228" label="Sudán del Sur / South Sudan" />
+		<node id="229" label="Suecia / Sweden" />
+		<node id="230" label="Suiza / Switzerland" />
+		<node id="231" label="Surinam / Suriname" />
+		<node id="232" label="Svalbard / Svalbard" />
+		<node id="233" label="Swazilandia / Swaziland" />
+		<node id="234" label="Tailandia / Thailand" />
+		<node id="235" label="Taiwan / Taiwan" />
+		<node id="236" label="Tanzania / Tanzania" />
+		<node id="237" label="Tayikistán / Tajikistan" />
+		<node id="238" label="Timor Oriental / East Timor" />
+		<node id="239" label="Togo / Togo" />
+		<node id="240" label="Tokelau / Tokelau" />
+		<node id="241" label="Tonga / Tonga" />
+		<node id="242" label="Trinidad y Tobago / Trinidad and Tobago" />
+		<node id="243" label="Túnez / Tunisia" />
+		<node id="244" label="Turkmenistán / Turkmenistan" />
+		<node id="245" label="Turquía / Turkey" />
+		<node id="246" label="Tuvalu / Tuvalu" />
+		<node id="247" label="Ucrania / Ukraine" />
+		<node id="248" label="Uganda / Uganda" />
+		<node id="249" label="Unión Europea / European Union" />
+		<node id="250" label="Uruguay / Uruguay" />
+		<node id="251" label="Uzbekistán / Uzbekistan" />
+		<node id="252" label="Vanuatu / Vanuatu" />
+		<node id="253" label="Venezuela / Venezuela" />
+		<node id="254" label="Vietnam / Vietnam" />
+		<node id="255" label="Wallis y Futuna / Wallis and Futuna" />
+		<node id="256" label="Yemen / Yemen" />
+		<node id="257" label="Yugoslavia / Yugoslavia" />
+		<node id="258" label="Zambia / Zambia" />
+		<node id="259" label="Zimbabwe / Zimbabwe" />
+
+	</isComposedBy>			
+</node>

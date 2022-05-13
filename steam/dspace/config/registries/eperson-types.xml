@@ -1,0 +1,100 @@
+<dspace-dc-types>
+
+    <dspace-header>
+        <title>DSpace EPerson</title>
+        <contributor.author>Kevin Van de Velde</contributor.author>
+        <contributor.author>Bert Vanderhallen</contributor.author>
+        <contributor.author>Ben Bosman</contributor.author>
+        <contributor.author>Mark Diggory</contributor.author>
+    </dspace-header>
+
+    <dc-schema>
+        <name>eperson</name>
+        <namespace>http://dspace.org/eperson</namespace>
+    </dc-schema>
+
+    
+    <dc-type>
+        <schema>eperson</schema>
+        <element>firstname</element>
+        <scope_note>Metadata field used for the first name</scope_note>
+    </dc-type>
+
+    <dc-type>
+        <schema>eperson</schema>
+        <element>lastname</element>
+        <scope_note>Metadata field used for the last name</scope_note>
+    </dc-type>
+
+    <dc-type>
+        <schema>eperson</schema>
+        <element>phone</element>
+        <scope_note>Metadata field used for the phone number</scope_note>
+    </dc-type>
+
+    <dc-type>
+        <schema>eperson</schema>
+        <element>language</element>
+        <scope_note>Metadata field used for the language</scope_note>
+    </dc-type>
+    
+    <!--
+    <dc-type>
+        <schema>eperson</schema>
+        <element>givenName</element>
+        <scope_note>Nombre de la persona que sugiere el recurso</scope_note>
+    </dc-type>
+    <dc-type>
+        <schema>eperson</schema>
+        <element>familyName</element>
+        <scope_note>Apellido de la persona que sugiere el recurso</scope_note>
+    </dc-type>
+    <dc-type>
+        <schema>eperson</schema>
+        <element>email</element>
+        <scope_note>Direccción de correo electrónico de la persona que sugiere el recurso</scope_note>
+    </dc-type>
+    <dc-type>
+        <schema>eperson</schema>
+        <element>knowsLanguage</element>
+        <scope_note>Idioma preferido.</scope_note>
+    </dc-type>
+    <dc-type>
+        <schema>eperson</schema>
+        <element>telephone</element>
+        <scope_note>Teléfono de la persona.</scope_note>
+    </dc-type>
+    <dc-type>
+        <schema>eperson</schema>
+        <element>identifier</element>
+        <scope_note>Nivel de estudios de la persona que sugiere el recurso</scope_note>
+    </dc-type>
+    <dc-type>
+        <schema>eperson</schema>
+        <element>identifier</element>
+        <scope_note>Nivel de estudios de la persona que sugiere el recurso</scope_note>
+    </dc-type>
+    <dc-type>
+        <schema>eperson</schema>
+        <element>biography</element>
+        <scope_note>Semblanza de la persona que sugiere el recurso</scope_note>
+    </dc-type>
+    <dc-type>
+        <schema>eperson</schema>
+        <element>jobTitle</element>
+        <scope_note>Perfil profesional</scope_note>
+    </dc-type>
+    <dc-type>
+        <schema>eperson</schema>
+        <element>affiliation</element>
+        <qualifier>name</qualifier>
+        <scope_note>Nombre la organización o institución al que está afiliada de la persona.</scope_note>
+    </dc-type><dc-type>
+        <schema>eperson</schema>
+        <element>identifier</element>
+        <qualifier>orcid</qualifier>
+        <scope_note>ORCID iD de la persona.</scope_note>
+    </dc-type>
+    -->
+
+</dspace-dc-types>
